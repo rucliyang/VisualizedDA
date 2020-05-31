@@ -8,19 +8,19 @@ Content
 
 Chap1 Introduction
 
-Chap2 Principle
+Chap2 Principles
 
 Chap3 Tools
 
 Chap4 Preparation for Analysis
 
-Chap5 Population and Proportion
+Chap5 Proportion
 
-Chap6 Comparison among Populations
+Chap6 Comparing Populations
 
 Chap7 Association
 
-Chap8 Spatial-Temporal Visulization
+Chap8 Spatial-Temporal Features
 
 Chap9 Network Visulization
 
