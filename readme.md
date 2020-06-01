@@ -2,6 +2,9 @@
 
 It is for the textbook Visualized Data Analytics (v1.0) which is authored by Yichen Qin and Yang Li in 2021.
 
+
+The slides can be downloaded at the website of Renmin University Press.
+
 #################################################################################
 
 Content
